@@ -75,7 +75,9 @@ export default function TestEngine({ slug, meta, questions }: Props) {
   function go(i: number) { setIdx(i) }
 
   function submit(auto=false) {
-    const attempted = answers.filter(a => a !== null).lengthconst correct = answers.reduce<number>(
+    const attempted = answers.filter((a) => a !== null).length
+    
+const correct = answers.reduce<number>(
   (acc, a, i) => acc + ((a === questions[i].correctIndex) ? 1 : 0),
   0
 )
