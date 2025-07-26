@@ -99,7 +99,7 @@ export async function getTestBySlug(slug: string): Promise<{ meta: TestMeta, que
     if (e.isDirectory()) await search(full)
   }
   if (!found) throw new Error('Test not found')
-  const q = found
+  const q = found!
   const { subject, topic, year, testSlug } = q[0]
   const meta: TestMeta = {
     slug: testSlug,
