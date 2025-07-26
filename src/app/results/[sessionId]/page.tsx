@@ -31,8 +31,11 @@ export default function ResultsPage({ params }: { params: { sessionId: string }}
     const rows = [
       ['question','userChoice','correctChoice','isCorrect','explanation'],
       ...data.perQuestion.map((r:any)=>[r.q, r.user, r.correct, String(r.user===r.correct), r.explanation.replace(/\n/g,' ')])
-    ]
-    const csv = rows.map(r=> r.map(x=> `"${String(x ?? '').replace(/"/g,'""')}"`).join(',')).join('\n')
+    ]const csv = rows
+  .map((r: any[]) =>
+    r.map((x: any) => `"${String(x ?? '').replace(/"/g, '""')}"`).join(',')
+  )
+  .join('\n')
     const blob = new Blob([csv], { type: 'text/csv' })
     const url = URL.createObjectURL(blob)
     const a = document.createElement('a')
