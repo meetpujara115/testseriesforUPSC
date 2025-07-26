@@ -21,12 +21,14 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <div className="container flex items-center justify-between py-3">
             <Link href="/" className="font-semibold text-lg">testseriesforUPSC.in</Link>
             <nav className="flex gap-5 text-sm">
-              <Link href="/">Home</Link>
-              <Link href="/tests">Tests</Link>
-              <Link href="/about">About</Link>
-              <Link href="/faq">FAQ</Link>
-              <Link href="/privacy">Privacy</Link>
-            </nav>
+  <Link href="/">Home</Link>
+  <Link href="/tests">Tests</Link>
+  <Link href="/ib">IB PYQs</Link>    {/* <— add this line */}
+  <Link href="/about">About</Link>
+  <Link href="/faq">FAQ</Link>
+  <Link href="/privacy">Privacy</Link>
+</nav>
+
           </div>
         </header>
         <main className="container py-8">{children}</main>
