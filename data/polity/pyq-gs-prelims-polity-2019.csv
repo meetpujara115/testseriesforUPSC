@@ -1,0 +1,11 @@
+subject,topic,year,testSlug,qType,questionText,choices,correctIndex,explanation
+Polity,,2019,pyq-gs-prelims-polity-2019,MCQ_SINGLE,"Which Article deals with writs?","A) Art.12;B) Art.32;C) Art.19;D) Art.226",1,"Right to constitutional remedies—SC"
+Polity,,2019,pyq-gs-prelims-polity-2019,MCQ_SINGLE,"Which body can proclaim National Emergency?","A) Lok Sabha;B) President;C) Supreme Court;D) Prime Minister",1,"Article 352 empowers the President."
+Polity,,2019,pyq-gs-prelims-polity-2019,MCQ_SINGLE,"Which part of the Constitution deals with Fundamental Rights?","A) Part II;B) Part III;C) Part IV;D) Part IVA",1,"Part III."
+Polity,,2019,pyq-gs-prelims-polity-2019,MCQ_SINGLE,"Finance Commission is appointed under Article:","A) 148;B) 280;C) 110;D) 300A",1,"Article 280."
+Polity,,2019,pyq-gs-prelims-polity-2019,MCQ_SINGLE,"Writ of Habeas Corpus is for:","A) Freedom of speech;B) Release from unlawful detention;C) Property rights;D) Taxation",1,"Habeas Corpus protects personal liberty."
+Polity,,2019,pyq-gs-prelims-polity-2019,MCQ_SINGLE,"NITI Aayog replaced:","A) Planning Commission;B) Finance Commission;C) FSDC;D) CCI",0,"Formed in 2015 replacing Planning Commission."
+Polity,,2019,pyq-gs-prelims-polity-2019,MCQ_SINGLE,"The Chairman of Rajya Sabha is:","A) President;B) PM;C) Vice‑President;D) Speaker",2,"Vice‑President is ex‑officio Chairman."
+Polity,,2019,pyq-gs-prelims-polity-2019,MCQ_SINGLE,"Which schedule deals with anti‑defection?","A) 7th;B) 8th;C) 10th;D) 12th",2,"Tenth Schedule."
+Polity,,2019,pyq-gs-prelims-polity-2019,MCQ_SINGLE,"Right to Property is now:","A) FR;B) DPSP;C) Legal right;D) Emergency power",2,"Art. 300A: legal right."
+Polity,,2019,pyq-gs-prelims-polity-2019,MCQ_SINGLE,"Who appoints CAG?","A) President;B) PM;C) SC;D) Parliament",0,"By the President of India."

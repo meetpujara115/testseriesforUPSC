@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: light; }
+
+html, body { height: 100%; }
+a { @apply text-primary; }
+.container { @apply max-w-5xl mx-auto px-4; }
+.btn { @apply inline-flex items-center justify-center rounded-md px-4 py-2 font-medium bg-primary text-white hover:bg-indigo-600; }

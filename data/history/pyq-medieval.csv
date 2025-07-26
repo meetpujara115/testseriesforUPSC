@@ -1,0 +1,11 @@
+subject,topic,year,testSlug,qType,questionText,choices,correctIndex,explanation
+History,Medieval,2020,pyq-medieval,MCQ_SINGLE,"Vijayanagara city was on:","A) Krishna;B) Kaveri;C) Tungabhadra;D) Godavari",2,"Hampi on Tungabhadra."
+History,Medieval,2020,pyq-medieval,MCQ_SINGLE,"Bhakti saint who wrote Abhangas:","A) Tulsidas;B) Mirabai;C) Namdev;D) Surdas",2,"Namdev (Maharashtra)."
+History,Medieval,2020,pyq-medieval,MCQ_SINGLE,"Ibadat Khana was started by:","A) Babur;B) Akbar;C) Aurangzeb;D) Shah Jahan",1,"Akbar at Fatehpur Sikri."
+History,Medieval,2020,pyq-medieval,MCQ_SINGLE,"Krishnadevaraya wrote:","A) Amuktamalyada;B) Gita Govinda;C) Padmavat;D) Rajatarangini",0,"Telugu work."
+History,Medieval,2020,pyq-medieval,MCQ_SINGLE,"Sufis organised silsilas meaning:","A) Chains/orders;B) Taxes;C) Armies;D) Villages",0,"Sufi orders."
+History,Medieval,2020,pyq-medieval,MCQ_SINGLE,"Language of administration under Delhi Sultanate:","A) Hindi;B) Persian;C) Arabic;D) Sanskrit",1,"Persian."
+History,Medieval,2020,pyq-medieval,MCQ_SINGLE,"Alauddin Khalji controlled markets in:","A) Agra;B) Delhi;C) Lahore;D) Multan",1,"Price control in Delhi."
+History,Medieval,2020,pyq-medieval,MCQ_SINGLE,"First Battle of Panipat year:","A) 1526;B) 1556;C) 1761;D) 1707",0,"Babur vs Ibrahim Lodi."
+History,Medieval,2020,pyq-medieval,MCQ_SINGLE,"Sikh scripture:","A) Adi Granth;B) Tripitaka;C) Zend Avesta;D) Guru Gita",0,"Guru Granth Sahib."
+History,Medieval,2020,pyq-medieval,MCQ_SINGLE,"Chola naval power helped trade with:","A) Rome;B) SE Asia;C) China only;D) Arabia only",1,"SE Asia links."

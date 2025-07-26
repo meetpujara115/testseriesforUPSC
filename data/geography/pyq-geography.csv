@@ -1,0 +1,11 @@
+subject,topic,year,testSlug,qType,questionText,choices,correctIndex,explanation
+Geography,,2020,pyq-geography,MCQ_SINGLE,"Tropic of Cancer passes through:","A) Kerala;B) Rajasthan;C) Odisha;D) TN",1,"Among others, Rajasthan."
+Geography,,2020,pyq-geography,MCQ_SINGLE,"Highest peak of India (within India):","A) K2;B) Kangchenjunga;C) Nanda Devi;D) Trisul",1,"Kangchenjunga."
+Geography,,2020,pyq-geography,MCQ_SINGLE,"Longest river of India:","A) Ganga;B) Godavari;C) Narmada;D) Brahmaputra",0,"Ganga length within India."
+Geography,,2020,pyq-geography,MCQ_SINGLE,"Western Ghats run along:","A) East coast;B) West coast;C) Central;D) NE",1,"Parallel to west coast."
+Geography,,2020,pyq-geography,MCQ_SINGLE,"Soil rich in black cotton soils:","A) Deccan Trap;B) Gangetic plain;C) Thar;D) Himalaya",0,"Deccan lava region."
+Geography,,2020,pyq-geography,MCQ_SINGLE,"Alluvial soils are mostly:","A) Northern plains;B) Desert;C) Islands;D) Hills only",0,"Formed by rivers."
+Geography,,2020,pyq-geography,MCQ_SINGLE,"Monsoon hits Kerala around:","A) 15 May;B) 1 June;C) 15 June;D) 1 July",1,"IMD onset ~1 June (avg)."
+Geography,,2020,pyq-geography,MCQ_SINGLE,"Rift valley of Narmada is:","A) Block mountain;B) Fold;C) Volcanic;D) Residual",0,"Tectonic rift/horst-graben."
+Geography,,2020,pyq-geography,MCQ_SINGLE,"Deltas found at:","A) East-flowing peninsular rivers;B) West-flowing;C) Himalayan only;D) Desert streams",0,"Godavari, Krishna, etc."
+Geography,,2020,pyq-geography,MCQ_SINGLE,"Salinity highest in:","A) Baltic;B) Red Sea;C) Arabian Sea;D) Bay of Bengal",1,"High evaporation & limited inflow."

@@ -1,0 +1,2 @@
+subject,topic,year,testSlug,qType,questionText,choices,correctIndex,explanation
+Polity,,2020,sample-test,MCQ_SINGLE,"Example question text?","A) Option A;B) Option B;C) Option C;D) Option D",0,"Short explanation."

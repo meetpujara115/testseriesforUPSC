@@ -1,0 +1,11 @@
+subject,topic,year,testSlug,qType,questionText,choices,correctIndex,explanation
+Art & Culture,,2020,pyq-a-c,MCQ_SINGLE,"Bharatanatyam is from:","A) Tamil Nadu;B) Kerala;C) Karnataka;D) AP",0,"Classical dance of TN."
+Art & Culture,,2020,pyq-a-c,MCQ_SINGLE,"Madhubani painting belongs to:","A) Bihar;B) Rajasthan;C) Gujarat;D) MP",0,"Mithila region."
+Art & Culture,,2020,pyq-a-c,MCQ_SINGLE,"Sitar is a:","A) Wind;B) Percussion;C) String;D) Keyboard",2,"String instrument."
+Art & Culture,,2020,pyq-a-c,MCQ_SINGLE,"Kathakali is from:","A) Kerala;B) TN;C) Odisha;D) Assam",0,"Kerala dance-drama."
+Art & Culture,,2020,pyq-a-c,MCQ_SINGLE,"Sangita Ratnakara by:","A) Sarangadeva;B) Tansen;C) Tyagaraja;D) Bhatkhande",0,"13th c. text."
+Art & Culture,,2020,pyq-a-c,MCQ_SINGLE,"Warli painting region:","A) Maharashtra;B) Punjab;C) Assam;D) Goa",0,"Tribal art Maharashtra."
+Art & Culture,,2020,pyq-a-c,MCQ_SINGLE,"Chhau is a dance of:","A) Rajasthan;B) West Bengal;C) Punjab;D) Kerala",1,"Bengal/Odisha/Jharkhand styles."
+Art & Culture,,2020,pyq-a-c,MCQ_SINGLE,"Yakshagana is from:","A) Karnataka;B) Kerala;C) TN;D) Odisha",0,"Karnataka theatre."
+Art & Culture,,2020,pyq-a-c,MCQ_SINGLE,"Bihu with which state:","A) Assam;B) Manipur;C) Nagaland;D) Sikkim",0,"Assam festival/dance."
+Art & Culture,,2020,pyq-a-c,MCQ_SINGLE,"Odissi is from:","A) Odisha;B) Manipur;C) WB;D) TN",0,"Classical dance of Odisha."

@@ -1,0 +1,11 @@
+subject,topic,year,testSlug,qType,questionText,choices,correctIndex,explanation
+History,Ancient,2020,pyq-ancient,MCQ_SINGLE,"Ashoka's inscriptions are mainly in:","A) Sanskrit;B) Pali/Prakrit;C) Tamil;D) Persian",1,"Edicts used Prakrit in Brahmi/Kharosthi."
+History,Ancient,2020,pyq-ancient,MCQ_SINGLE,"Rigveda contains:","A) Songs;B) Charms;C) Ritual formulae;D) Law codes",0,"Rigveda is a collection of hymns."
+History,Ancient,2020,pyq-ancient,MCQ_SINGLE,"Indus cities used baked bricks extensively:","A) True;B) False;C) Partly;D) Unknown",0,"Harappan cities used baked bricks."
+History,Ancient,2020,pyq-ancient,MCQ_SINGLE,"Gautama Buddha attained enlightenment at:","A) Sarnath;B) Bodh Gaya;C) Kushinagar;D) Lumbini",1,"Bodh Gaya."
+History,Ancient,2020,pyq-ancient,MCQ_SINGLE,"Nalanda was famous for:","A) Temple;B) Port;C) University;D) Stupa",2,"Ancient university."
+History,Ancient,2020,pyq-ancient,MCQ_SINGLE,"Harappans used:","A) Iron;B) Bronze;C) Steel;D) Aluminium",1,"Bronze age civilisation."
+History,Ancient,2020,pyq-ancient,MCQ_SINGLE,"Megasthenes wrote:","A) Indica;B) Arthashastra;C) Mudrarakshasa;D) Rajatarangini",0,"Greek ambassador."
+History,Ancient,2020,pyq-ancient,MCQ_SINGLE,"Mauryan capital:","A) Pataliputra;B) Taxila;C) Ujjain;D) Kalinga",0,"Pataliputra."
+History,Ancient,2020,pyq-ancient,MCQ_SINGLE,"Sangam literature belongs to:","A) Tamil;B) Pali;C) Prakrit;D) Sanskrit",0,"Tamil corpus."
+History,Ancient,2020,pyq-ancient,MCQ_SINGLE,"Later Vedic economy relied on:","A) Hunting;B) Pastoralism;C) Agriculture;D) Trade only",2,"Agriculture expanded."

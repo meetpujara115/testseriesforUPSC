@@ -1,0 +1,11 @@
+subject,topic,year,testSlug,qType,questionText,choices,correctIndex,explanation
+History,Modern,2020,pyq-modern,MCQ_SINGLE,"Battle of Plassey year:","A) 1757;B) 1764;C) 1857;D) 1748",0,"Plassey in 1757."
+History,Modern,2020,pyq-modern,MCQ_SINGLE,"Who founded Arya Samaj?","A) Swami Dayanand;B) Vivekananda;C) Aurobindo;D) Roy",0,"Dayanand Saraswati."
+History,Modern,2020,pyq-modern,MCQ_SINGLE,"First session of INC in:","A) 1885;B) 1905;C) 1919;D) 1920",0,"Bombay 1885."
+History,Modern,2020,pyq-modern,MCQ_SINGLE,"Who wrote Hind Swaraj?","A) Nehru;B) Gandhi;C) Tilak;D) Lajpat Rai",1,"M.K. Gandhi."
+History,Modern,2020,pyq-modern,MCQ_SINGLE,"Partition of Bengal announced in:","A) 1905;B) 1911;C) 1947;D) 1935",0,"Lord Curzon 1905."
+History,Modern,2020,pyq-modern,MCQ_SINGLE,"Simon Commission year:","A) 1927;B) 1928;C) 1929;D) 1930",1,"1928 arrival India 1928."
+History,Modern,2020,pyq-modern,MCQ_SINGLE,"Dandi March year:","A) 1928;B) 1929;C) 1930;D) 1931",2,"Salt Satyagraha 1930."
+History,Modern,2020,pyq-modern,MCQ_SINGLE,"Quit India year:","A) 1940;B) 1942;C) 1945;D) 1946",1,"1942 movement."
+History,Modern,2020,pyq-modern,MCQ_SINGLE,"Poona Pact was between:","A) Gandhi & Ambedkar;B) Nehru & Jinnah;C) Bose & Gandhi;D) Tilak & Annie",0,"1932 pact."
+History,Modern,2020,pyq-modern,MCQ_SINGLE,"Mountbatten Plan year:","A) 1945;B) 1946;C) 1947;D) 1948",2,"June 3, 1947."

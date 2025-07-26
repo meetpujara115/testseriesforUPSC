@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://testseriesforupsc.in/sitemap.xml
