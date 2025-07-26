@@ -27,21 +27,38 @@ export default function ResultsPage({ params }: { params: { sessionId: string }}
     URL.revokeObjectURL(url)
   }
 
-  function downloadCSV(){
-    const rows = [
-      ['question','userChoice','correctChoice','isCorrect','explanation'],
-      ...data.perQuestion.map((r:any)=>[r.q, r.user, r.correct, String(r.user===r.correct), r.explanation.replace(/\n/g,' ')])
-    ]const csv = rows
-  .map((r: any[]) =>
-    r.map((x: any) => `"${String(x ?? '').replace(/"/g, '""')}"`).join(',')
-  )
-  .join('\n')
-    const blob = new Blob([csv], { type: 'text/csv' })
-    const url = URL.createObjectURL(blob)
-    const a = document.createElement('a')
-    a.href = url; a.download = `${data.sessionId}.csv`; a.click()
-    URL.revokeObjectURL(url)
-  }
+function downloadCSV() {
+  // Build a typed 2D array: rows of cells
+  const rows: (string | number | null | undefined)[][] = [
+    ['question', 'userChoice', 'correctChoice', 'isCorrect', 'explanation'],
+    ...data.perQuestion.map(
+      (r: { q: string; user: number | null; correct: number; explanation: string }) => [
+        r.q,
+        r.user,
+        r.correct,
+        r.user === r.correct ? 'true' : 'false',
+        (r.explanation ?? '').replace(/\n/g, ' ')
+      ]
+    ),
+  ]
+
+  // Convert to CSV (no TypeScript annotations in arrow params to avoid parser issues)
+  const csv = rows
+    .map(row =>
+      row.map(cell => `"${String(cell ?? '').replace(/"/g, '""')}"`).join(',')
+    )
+    .join('\n')
+
+  // Trigger download
+  const blob = new Blob([csv], { type: 'text/csv' })
+  const url = URL.createObjectURL(blob)
+  const a = document.createElement('a')
+  a.href = url
+  a.download = `${data.sessionId}.csv`
+  a.click()
+  URL.revokeObjectURL(url)
+}
+
 
   return (
     <div className="space-y-4">
